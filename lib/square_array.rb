@@ -1,3 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
 def square_array(array)
   i=0
   newarray = [ ]
@@ -7,3 +44,4 @@ def square_array(array)
   end
   newarray
 end
+=end
